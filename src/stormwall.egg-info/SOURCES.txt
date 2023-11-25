@@ -1,0 +1,8 @@
+pyproject.toml
+setup.cfg
+setup.py
+src/stormwall.egg-info/PKG-INFO
+src/stormwall.egg-info/SOURCES.txt
+src/stormwall.egg-info/dependency_links.txt
+src/stormwall.egg-info/top_level.txt
+tests/test_e2e.py

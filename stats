@@ -1,0 +1,4 @@
+"timestamp":1700285650, "count_type":"10s", "A1_sum": 6, "A2_max":30, "A3_min":100
+"timestamp":1700285660, "count_type":"10s", "A1_sum": 15, "A2_max":40, "A3_min":103
+"timestamp":1700285680, "count_type":"10s", "A1_sum": 6, "A2_max":40, "A3_min":140
+"timestamp":1700285640, "count_type":"60s", "A1_sum": 27, "A2_max":40, "A3_min":100
